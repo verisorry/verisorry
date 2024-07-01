@@ -10,17 +10,23 @@
   <a/>
 </p>
 
-</style>
 -------
 - 🐱 I'm Silvia, a CS and Communications undergrad at Northwestern University
 - 🗺️ Currently learning Flutter Bloc and GIS Technologies
-- 💼 Working at <a href="https://tiilt.northwestern.edu/"><img src="">tiilt<a/> and <a href="acer.com"><img src="">acer<a/> over the summer
+- 💼 Working at <img src="tiiltlogo.png" width="18"> <a href="https://tiilt.northwestern.edu/">tiilt<a/> and <img src="acerlogo.png" width="18"> <a href="acer.com">acer<a/> over the summer
 - 🌸 See more of my work at [silviafang.com](https://silviafang.com)
 - 💥 Feel free to reach out about any work opportunities!
 -------
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=verisorry)
-[![Silvia's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=verisorry&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/verisorry)
+<details>
+  <summary><h6>Embarrassing GitHub Stats :computer:</h6></summary>
+  <br>
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=verisorry)
+  [![Silvia's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=verisorry&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/verisorry)
+  
+</details>
+
 
 <!--
 **verisorry/verisorry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
