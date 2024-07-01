@@ -12,7 +12,7 @@
 
 - 🐱 I'm Silvia, a CS and Communications undergrad at Northwestern University
 - 🗺️ Currently learning Flutter Bloc and GIS Technologies
-- 💼 Working at <img src="tiiltlogo.png" width="18"> <a href="https://tiilt.northwestern.edu/">tiilt<a/> and <img src="acerlogo.png" width="18"> <a href="acer.com">acer<a/> over the summer
+- 💼 Working at <img src="tiiltlogo.png" width="18"> <a href="https://tiilt.northwestern.edu/">tiilt<a/> and <img src="acerlogo.png" width="18"> <a href="https://www.acer.com">acer<a/> over the summer
 - 🌸 See more of my work at [silviafang.com](https://silviafang.com)
 - 💥 Feel free to reach out about any work opportunities!
 
