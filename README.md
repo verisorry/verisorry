@@ -10,7 +10,7 @@
   <a/>
 </p>
 
-- 🐱 I'm Silvia, a CS and Communications undergrad at Northwestern University
+- 🐱 I'm Silvia, a Computer Science and Communication Studies undergrad at Northwestern University
 - 🗺️ Currently learning Flutter Bloc and GIS Technologies
 - 💼 Working at <img src="tiiltlogo.png" width="18"> <a href="https://tiilt.northwestern.edu/">tiilt<a/> and <img src="acerlogo.png" width="18"> <a href="https://www.acer.com">acer<a/> over the summer
 - 🌸 See more of my work at [silviafang.com](https://silviafang.com)
