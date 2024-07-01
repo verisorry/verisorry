@@ -1,4 +1,26 @@
-## Hi there 👋
+<h2>Hi! 👋</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/silvia-fang/">
+    <img src="https://img.shields.io/badge/-silviafang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvia-fang/">
+  <a/>
+    
+  <a href="mailto:fang.silvia@gmail.com">
+    <img src="https://img.shields.io/badge/-fang.silvia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fang.silvia@gmail.com">
+  <a/>
+</p>
+
+</style>
+-------
+- 🐱 I'm Silvia, a CS and Communications undergrad at Northwestern University
+- 🗺️ Currently learning Flutter Bloc and GIS Technologies
+- 💼 Working at <a href="https://tiilt.northwestern.edu/"><img src="">tiilt<a/> and <a href="acer.com"><img src="">acer<a/> over the summer
+- 🌸 See more of my work at [silviafang.com](https://silviafang.com)
+- 💥 Feel free to reach out about any work opportunities!
+-------
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=verisorry)
+[![Silvia's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=verisorry&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/verisorry)
 
 <!--
 **verisorry/verisorry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
