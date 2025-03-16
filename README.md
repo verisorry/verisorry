@@ -21,8 +21,8 @@
   <summary><h6>embarrassing github stats :computer:</h6></summary>
   <br>
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=verisorry)
-  [![Silvia's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=verisorry&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/verisorry)
+  ![Top Languages](https://github-readme-stats-silvia-fangs-projects.vercel.app/api/top-langs/?username=verisorry&hide=makefile,cmake&langs_count=5)
+  [![Silvia's GitHub stats](https://github-readme-stats-silvia-fangs-projects.vercel.app/api?username=verisorry&count_private=true&show_icons=true&include_all_commits=true&hide=stars&hide_rank=true)](https://github.com/verisorry)
   
 </details>
 
