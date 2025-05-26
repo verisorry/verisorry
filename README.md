@@ -10,9 +10,9 @@
   <a/>
 </p>
 
-- 🐱 I'm Silvia, a Computer Science and Communication Studies undergrad at Northwestern University
-- 🗺️ Currently learning more about accessibile technologies
-- 💼 Working at <img src="acerlogo.png" width="18"> <a href="https://www.acer.com">Acer<a/> and <img src="wildhackslogo_rotated.png" width="18"/> <a href="wildhacks.net">Northwestern WildHacks<a/>
+- 🐱 I'm Silvia, a Computer Science, Communication Studies, and Design undergrad at Northwestern University
+- 🗺️ Currently learning more about accessibile technologies & design
+- 💼 Working at <img src="acerlogo.png" width="18"> <a href="https://homefromcollege.com/">H\FC<a/> and <img src="wildhackslogo_rotated.png" width="18"/> <a href="wildhacks.net">Northwestern WildHacks<a/>
 
 - 🌸 See more of my work at [silviafang.com](https://silviafang.com)
 - 💥 Feel free to reach out about any work opportunities!
