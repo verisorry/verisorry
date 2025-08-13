@@ -11,7 +11,7 @@
 </p>
 
 - 🐱 I'm Silvia, a Computer Science, Communication Studies, & Design undergrad at Northwestern University
-- 🗺️ Currently learning more about accessibile technologies & design
+- 🗺️ Currently learning more about accessible technologies & design
 - 💼 Working at <img src="homefromcollege_logo.jpeg" width="18"> <a href="https://homefromcollege.com/">H\FC<a/> and <img src="wildhackslogo_rotated.png" width="18"/> <a href="wildhacks.net">Northwestern WildHacks<a/>
 - 🔧 Also contributing to amazing start-ups @ <a href="https://www.thegarage.northwestern.edu/">The Garage at Northwestern<a/>
 
