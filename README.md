@@ -1,31 +1,41 @@
-<h2>Hi! 👋</h2>
+## Hi! 👋
 
 <p>
   <a href="https://www.linkedin.com/in/silvia-fang/">
     <img src="https://img.shields.io/badge/-silviafang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvia-fang/">
   <a/>
     
-  <a href="mailto:fang.silvia@gmail.com">
-    <img src="https://img.shields.io/badge/-fang.silvia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fang.silvia@gmail.com">
+  <a href="mailto:fang.silvia2026@gmail.com">
+    <img src="https://img.shields.io/badge/-fang.silvia2026@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fang.silvia2026@gmail.com">
   <a/>
 </p>
 
-- 🐱 I'm Silvia, a Computer Science, Communication Studies, & Design undergrad at Northwestern University
-- 🗺️ Currently learning more about accessible technologies & design
-- 💼 Working at <img src="homefromcollege_logo.jpeg" width="18"> <a href="https://homefromcollege.com/">H\FC<a/> and <img src="wildhackslogo_rotated.png" width="18"/> <a href="wildhacks.net">Northwestern WildHacks<a/>
-- 🔧 Also contributing to amazing start-ups @ <a href="https://www.thegarage.northwestern.edu/">The Garage at Northwestern<a/>
+- 🧋 I'm Silvia, a Computer Science, Communication Studies, & Design undergrad at Northwestern University
+- 📑 Currently researching and writing about the architecture of digital community when no one's in charge
+- 💼 Working on <img src="wildhackslogo_rotated.png" width="18"/> <a href="wildhacks.net">Northwestern WildHacks<a/> and contributing to amazing start-ups @ <a href="https://www.thegarage.northwestern.edu/">The Garage at Northwestern<a/>
 
 - 🌸 See more of my work at [silviafang.com](https://silviafang.com)
-- 💥 Feel free to reach out about any work opportunities!
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/verisorry/verisorry/0bdfab30118d454a36d86272ecfd75f0668c431c/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="[output/github-snake.svg](https://raw.githubusercontent.com/verisorry/verisorry/0bdfab30118d454a36d86272ecfd75f0668c431c/github-contribution-grid-snake.svg)" />
+    <img alt="github-snake" src="[github-snake.svg](https://raw.githubusercontent.com/verisorry/verisorry/0bdfab30118d454a36d86272ecfd75f0668c431c/github-contribution-grid-snake.svg)" />
+  </picture>
+</p>
+<p align="center"><em>Inspired by <a href="https://github.com/sleepymalc/sleepymalc">sleepymalc</a></em></p>
 
 <details>
   <summary><h6>embarrassing github stats :computer:</h6></summary>
   <br>
   
-  ![Top Languages](https://github-readme-stats-silvia-fangs-projects.vercel.app/api/top-langs/?username=verisorry&hide=makefile,cmake&langs_count=5)
-  [![Silvia's GitHub stats](https://github-readme-stats-silvia-fangs-projects.vercel.app/api?username=verisorry&count_private=true&show_icons=true&include_all_commits=true&hide=stars&hide_rank=true)](https://github.com/verisorry)
+  <a href="https://github.com/verisorry/">
+    <img height=200 align="center" src="https://github-readme-stats-silvia-fangs-projects.vercel.app/api?username=verisorry&count_private=true&show_icons=true&hide=stars" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=verisorry&layout=compact&langs_count=8&card_width=320&hide=makefile,cmake,assembly" />
+  </a>
   
 </details>
+
 
 
 <!--
