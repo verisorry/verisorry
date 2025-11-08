@@ -18,9 +18,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/verisorry/verisorry/0bdfab30118d454a36d86272ecfd75f0668c431c/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="[output/github-snake.svg](https://raw.githubusercontent.com/verisorry/verisorry/0bdfab30118d454a36d86272ecfd75f0668c431c/github-contribution-grid-snake.svg)" />
-    <img alt="github-snake" src="[github-snake.svg](https://raw.githubusercontent.com/verisorry/verisorry/0bdfab30118d454a36d86272ecfd75f0668c431c/github-contribution-grid-snake.svg)" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/verisorry/verisorry/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="[output/github-snake.svg](https://raw.githubusercontent.com/verisorry/verisorry/output/github-contribution-grid-snake.svg)" />
+    <img alt="github-snake" src="[github-snake.svg](https://raw.githubusercontent.com/verisorry/verisorry/output/github-contribution-grid-snake.svg)" />
   </picture>
 </p>
 <p align="center"><em>Inspired by <a href="https://github.com/sleepymalc/sleepymalc">sleepymalc</a></em></p>
