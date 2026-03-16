@@ -12,7 +12,7 @@
 
 - 🧋 I'm Silvia, a Computer Science, Communication Studies, & Design undergrad at Northwestern University
 - 📑 Currently researching and writing about the architecture of digital community when no one's in charge
-- 💼 Working on <img src="wildhackslogo_rotated.png" width="18"/> <a href="wildhacks.net">Northwestern WildHacks<a/> and contributing to amazing start-ups @ <a href="https://www.thegarage.northwestern.edu/">The Garage at Northwestern<a/>
+- 💼 Working on <img src="wildhackslogo_rotated.png" width="18"/> <a href="https://www.wildhacks.net/">Northwestern WildHacks<a/> and contributing to amazing start-ups @ <a href="https://www.thegarage.northwestern.edu/">The Garage at Northwestern<a/>
 
 - 🌸 See more of my work at [silviafang.com](https://silviafang.com)
 
